@@ -1,0 +1,29 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp5"
+        xmlns:ig="http://schemas.infragistics.com/xaml" x:Class="WpfApp5.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="475.61" Width="532.317">
+    <Grid>
+        <Grid.DataContext>
+            <local:ViewModel />
+        </Grid.DataContext>
+        <ig:XamScatterSurface3D Name="SurfaceChart"
+        ItemsSource="{Binding Path=DataCollection}"
+        XMemberPath="X" YMemberPath="Y" ZMemberPath="Depth" RimThickness="0" ShowFloorProjection="False">
+            <ig:XamScatterSurface3D.XAxis>
+                <ig:LinearAxis Title="Lat" />
+            </ig:XamScatterSurface3D.XAxis>
+            <ig:XamScatterSurface3D.YAxis>
+                <ig:LinearAxis Title="Long" />
+            </ig:XamScatterSurface3D.YAxis>
+            <ig:XamScatterSurface3D.ZAxis>
+                <ig:LinearAxis Title="Depth" />
+            </ig:XamScatterSurface3D.ZAxis>
+        </ig:XamScatterSurface3D>
+
+    </Grid>
+</Window>

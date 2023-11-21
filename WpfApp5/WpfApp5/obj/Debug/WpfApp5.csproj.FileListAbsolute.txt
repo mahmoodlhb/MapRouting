@@ -1,0 +1,191 @@
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Controls.Charts.XamSurfaceChart3D.v17.1.dll
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.DataVisualization.v17.1.dll
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.v17.1.dll
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Controls.Charts.XamSurfaceChart3D.v17.1.xml
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.DataVisualization.v17.1.xml
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.v17.1.xml
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.v17.1.resources.dll
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.v17.1.resources.dll
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.v17.1.resources.dll
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csprojResolveAssemblyReference.cache
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\MainWindow.baml
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.g.resources
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.Cache
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe.licenses
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+c:\users\shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
+C:\Users\Shahrokh\documents\visual studio 2017\Projects\WpfApp5\WpfApp5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Shahrokh\Documents\Visual Studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Core.v17.1.dll
+C:\Users\Shahrokh\Documents\Visual Studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Excel.v17.1.dll
+C:\Users\Shahrokh\Documents\Visual Studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Core.v17.1.xml
+C:\Users\Shahrokh\Documents\Visual Studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Excel.v17.1.xml
+C:\Users\Shahrokh\Documents\Visual Studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\Visual Studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\Visual Studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\Visual Studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\Visual Studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\Visual Studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\Visual Studio 2017\Projects\WpfApp5\WpfApp5\bin\Debug\Resource\SampleData.xlsx
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Controls.Charts.XamSurfaceChart3D.v17.1.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.DataVisualization.v17.1.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Core.v17.1.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Excel.v17.1.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.v17.1.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Controls.Charts.XamSurfaceChart3D.v17.1.xml
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.DataVisualization.v17.1.xml
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Core.v17.1.xml
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Excel.v17.1.xml
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.v17.1.xml
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csprojResolveAssemblyReference.cache
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\MainWindow.baml
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.Cache
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe.licenses
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Users\Shahrokh\Documents\VisualStudio2017\Projects\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Controls.Charts.XamSurfaceChart3D.v17.1.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.DataVisualization.v17.1.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Core.v17.1.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Excel.v17.1.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.v17.1.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Controls.Charts.XamSurfaceChart3D.v17.1.xml
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.DataVisualization.v17.1.xml
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Core.v17.1.xml
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Excel.v17.1.xml
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.v17.1.xml
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csprojResolveAssemblyReference.cache
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\MainWindow.baml
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.Cache
+C:\Users\mahmood\Desktop\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe.licenses
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Controls.Charts.XamSurfaceChart3D.v17.1.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.DataVisualization.v17.1.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Core.v17.1.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Excel.v17.1.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.v17.1.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Controls.Charts.XamSurfaceChart3D.v17.1.xml
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.DataVisualization.v17.1.xml
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Core.v17.1.xml
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Excel.v17.1.xml
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.v17.1.xml
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csprojResolveAssemblyReference.cache
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\MainWindow.baml
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.Cache
+C:\Users\mahmood\Desktop\New folder (15)\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe.licenses
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Controls.Charts.XamSurfaceChart3D.v17.1.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.DataVisualization.v17.1.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Core.v17.1.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Excel.v17.1.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.v17.1.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Controls.Charts.XamSurfaceChart3D.v17.1.xml
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.DataVisualization.v17.1.xml
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Core.v17.1.xml
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.Documents.Excel.v17.1.xml
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\InfragisticsWPF4.v17.1.xml
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.DataVisualization.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.Documents.Core.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.Documents.Excel.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\de\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\es\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\bin\Debug\fr\InfragisticsWPF4.v17.1.resources.dll
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csprojResolveAssemblyReference.cache
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\MainWindow.baml
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.Cache
+C:\Users\mahmood\Desktop\kasri\3d final\WpfApp5\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe.licenses
